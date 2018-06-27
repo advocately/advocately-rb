@@ -8,6 +8,7 @@ require 'advocately/resources/review_source'
 require 'advocately/resources/account'
 require 'advocately/resources/contact'
 require 'advocately/resources/category'
+require 'advocately/resources/survey_response.rb'
 
 module Advocately
 end
